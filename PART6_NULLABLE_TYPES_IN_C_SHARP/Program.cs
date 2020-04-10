@@ -10,7 +10,7 @@ namespace PART6_NULLABLE_TYPES_IN_C_SHARP
     {
         static void Main(string[] args)
         {
-            bool? AreYouMajor = null;
+            bool? AreYouMajor = true;
 
             if(AreYouMajor == true)
             {
